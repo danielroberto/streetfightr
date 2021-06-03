@@ -260,7 +260,7 @@ a.round-button:hover {
 .header li a {
   font-family: 'Exo 2', sans-serif;
   display: block;
-  padding: 1em 1em;
+  padding: 1em;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -297,7 +297,7 @@ a.round-button:hover {
   cursor: pointer;
   display: inline-block;
   float: right;
-  padding: 3em 3em;
+  padding: 2em 2em;
   position: relative;
   user-select: none;
 }
@@ -783,7 +783,7 @@ display: none;
   display: block;
   float: left;
   width: 3em;
-  padding: 2em 2em;
+  padding: 1em 1em;
 }
 
 .img-hero {
