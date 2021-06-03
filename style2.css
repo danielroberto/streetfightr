@@ -738,7 +738,6 @@ display: none;
 }
 
 .img-hero {
-  height: 100%;
   max-width: 20em;
   margin: 1em;
   align-items: center;
@@ -833,10 +832,4 @@ display: none;
   align-items: center;
 }
 
-}
-
-* {
-  background: #000 !important;
-  color: #0f0 !important;
-  outline: solid #f00 1px !important;
 }
