@@ -654,35 +654,35 @@ display: none;
 }
 
 #hero2 {
-  height: 50vh;
+  height: 100%;
 }
 
 #hero3 {
-  height: 50vh;
+  height: 100%;
 }
 
 #hero4 {
-  height: 50vh;
+  height: 100%;
 }
 
 #hero-how {
-  height: 85vh;
+  height: 100%;
 }
 
 #hero2-how {
-  height: 70vh;
+  height: 100%;
 }
 
 #hero3-how {
-  height: 70vh;
+  height: 100%;
 }
 
 #hero-about {
-  height: 40vh;
+  height: 100%;
 }
 
 #hero2-about {
-  height: 40vh;
+  height: 100%;
 }
 
   .header .logo {
@@ -760,7 +760,7 @@ display: none;
   margin: 0 auto;
   text-align: left;
   width: 80%;
-  height: 50vh;
+  height: 100%;
 }
 
 }
