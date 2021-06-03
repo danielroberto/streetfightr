@@ -690,6 +690,10 @@ display: none;
     padding-bottom: 3vh;
 }
 
+#hero {
+  height: 100%;
+}
+
 #hero2 {
   height: 100%;
 }
