@@ -383,7 +383,7 @@ input[type=submit]:hover {
 
 /*media queries*/
 
-@media (min-width: 1024px) {
+@media (min-width: 800px) {
 
 h1 {
   font-size: 5em;
@@ -565,7 +565,7 @@ display: none;
 }
 
 
-@media (max-width: 1024px) {
+@media (max-width: 800px) {
 
     h3.hero-h3 {
     display: none;
@@ -758,7 +758,7 @@ display: none;
 
 }
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 
   h2.hero-h2 {
     display: none;
